@@ -1,0 +1,123 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/app/_not-found/page-c7b5e8a1971281c9.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/css/d72caf75ae626b30.css",
+      "static/chunks/app/layout-efd7003a761e247e.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/app/about/page-61ac5b8091e88968.js"
+    ],
+    "/executives/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/app/executives/page-894c99ac62d76d3f.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/app/contact/page-4d17181c89472d8d.js"
+    ],
+    "/find-a-lawyer/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/app/find-a-lawyer/page-941ea4cc434532a4.js"
+    ],
+    "/gallery/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/css/857aa62baa17c894.css",
+      "static/chunks/880-a55827ae50f68c16.js",
+      "static/chunks/app/gallery/page-f64f3dce0d790fe8.js"
+    ],
+    "/law-firms-in-abuja/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/css/857aa62baa17c894.css",
+      "static/chunks/880-a55827ae50f68c16.js",
+      "static/chunks/app/law-firms-in-abuja/page-e80e13f7ab1ef5e1.js"
+    ],
+    "/members-portal/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/app/members-portal/page-e7214b9fee32aa6e.js"
+    ],
+    "/nba-constitution/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/app/nba-constitution/page-83db2652820daf77.js"
+    ],
+    "/news-events/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/765-d7d1d371ed1bca1b.js",
+      "static/chunks/app/news-events/page-6567e7aa89935b58.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/css/3a24c022f69a36a9.css",
+      "static/chunks/689-7b8676b0ba89657b.js",
+      "static/chunks/333-1b9227b10087a56c.js",
+      "static/chunks/app/page-878f776ee6faf492.js"
+    ],
+    "/publications/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/765-d7d1d371ed1bca1b.js",
+      "static/chunks/828-16d07a54bd25437a.js",
+      "static/chunks/app/publications/page-8bd787a84bfef342.js"
+    ],
+    "/publications/[slug]/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/chunks/483-ecbf50808a3227a6.js",
+      "static/chunks/app/publications/[slug]/page-629d53b349b81fee.js"
+    ],
+    "/test/page": [
+      "static/chunks/webpack-389ce5571cd87df2.js",
+      "static/chunks/fd9d1056-550706e6dd399c5e.js",
+      "static/chunks/117-cfca33fdd7bebd6d.js",
+      "static/chunks/main-app-279bace184d2952c.js",
+      "static/css/857aa62baa17c894.css",
+      "static/chunks/880-a55827ae50f68c16.js",
+      "static/chunks/app/test/page-10e666baa70c1314.js"
+    ]
+  }
+}

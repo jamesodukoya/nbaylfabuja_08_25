@@ -1,0 +1,29 @@
+{
+  "app/gallery/page.tsx -> @/app/_components/Gallery": {
+    "id": 8444,
+    "files": [
+      "static/css/55278fc833c7a365.css",
+      "static/chunks/357.9c15253dec4675cc.js",
+      "static/chunks/333-1b9227b10087a56c.js",
+      "static/chunks/444.b48b3d7b767645d9.js"
+    ]
+  },
+  "app/law-firms-in-abuja/page.tsx -> ../_components/LawFirmList": {
+    "id": 7895,
+    "files": [
+      "static/chunks/d0deef33.bd75b11a952a2d3d.js",
+      "static/chunks/392.963321f66e48ad79.js",
+      "static/chunks/333-1b9227b10087a56c.js",
+      "static/chunks/895.be30f5d37148c183.js"
+    ]
+  },
+  "app/test/page.tsx -> @/app/_components/Gallery": {
+    "id": 8444,
+    "files": [
+      "static/css/55278fc833c7a365.css",
+      "static/chunks/357.9c15253dec4675cc.js",
+      "static/chunks/333-1b9227b10087a56c.js",
+      "static/chunks/444.b48b3d7b767645d9.js"
+    ]
+  }
+}
